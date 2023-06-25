@@ -1,0 +1,43 @@
+img{
+width: 80px;
+height: 20px;
+float: left;
+}
+a{
+    float: left 100px;
+}
+img{
+height: 100vh;
+width: 175vh;
+margin-bottom: 5%;
+    
+}
+.about{
+   margin: 5%; 
+   
+}
+.row{
+    
+}
+.background{
+    background-image: url(connect-associated-social-networking-togetherness-concept.jpg);
+    height: 300px;
+    width: 100%;
+    background-repeat: ;
+    
+    
+}
+.MADE{
+    text-align: justify;
+    padding: 7%;
+    font-size: 7rem;
+    /* padding-top: 10%; */
+    /* text-decoration: solid; */
+}
+.retail{
+    border: 4px solid black;
+    margin-bottom: 2%;
+    padding: 1%;
+    
+}
+    
